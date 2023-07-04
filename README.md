@@ -1,11 +1,10 @@
-# DoverForest
 <param ve-config 
        title="Dover Forest"
        author="Angela Ricasio Hoten"
        banner="https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg"
        layout="vertical">
 
-## Introduction 
+# Introduction 
 The Dover Forest is a young secondary forest that is found in the Ulu Pandan areas situated between three roads and the Ulu-Pandan canal. Similarly to the Clementi Forest (insert webpage to Clementi Forest here), the Dover Forest spontaneously afforested close to fifty years ago. A grass lawn divides the forest into two halves that locals in the area have nicknamed East Dover and West Dover Forest. As of July 2023, most of East Dover Forest has been deforested for redevelopment. While West Dover Forest remains intact for at least the next ten years, the attempt to protect the Dover Forest has been a story of hope and struggle for those who have dedicated their energy to protecting the forest and the species that live within it. 
 
 # Histories of the Dover Forest
