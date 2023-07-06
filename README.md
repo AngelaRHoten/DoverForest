@@ -68,14 +68,12 @@ An understated and somewhat less popular tree species, the non-native Albizia tr
        curtain="true"
        title="East Dover Forest, Albizia Trees, 2021"
        attribution="Chua Chintat"
-       fit="contain">
-       
+       fit="contain">       
 <param ve-image 
        url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover Forest_Albizia Tree_01.jpg"
        title="Fallen Albizia Tree, February 2023"
        attribution="Angela Ricasio Hoten"
-       fit="contain">
-       
+       fit="contain">       
 <param ve-image 
        url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover Forest_Albizia Tree_02.jpg"
        title="Fallen Albizia Tree, February 2023"
@@ -91,7 +89,24 @@ The last eaglet of the Dover Forest nicknamed Snowy, has also been observed feed
 Both of these species have also been observed interacting amongst the albizia trees, revealing the ways that these two species potentially coexist within their respective nests in close proximity and with breeding cycles occurring over a similar period of time.[^6] <param ve-video id="JW1RckgM_1w" title="1 April 2022 - Changeable Hawk-eagle (CHE) vs Oriental Pied Hornbill (OPH) @ Dover Forest East"> 
 
 Habitats like the Dover Forest are crucial for the protection of species like the Oriental Pied Hornbill and the Changeable Hawk Eagle. Although species numbers have been on the rise in recent years, there lacks a sufficient understanding of their species' vulnerability, habitat suitability, and prey density in the local context. A study done in 2011 counted six active nest sites and three pairs of eagles exhibiting pairing behavior, which rounded the local changeable hawk eagle population to nine pairs of eagles.[^7] This study did not include the pair observed in the Dover Forest, which would bring the local population to roughly ten pairs of eagles. As of July 2023, most of East Dover Forest has been deforested for new housing developments. Given that Snowy, the youngest member of the Dover Forest residents, had only hatched earlier this year, the Albizia tree on which the nest sits has remained intact for the rest of the year in large part due to the advocacy of Chintat. However, the surrounding ecosystem that Snowy, and other species of the Dover Forest, relied on for survival has been demolished leaving the individual species intact but eliminating the ecosystem of dependence.
+<param ve-image 
+       url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover Forest_Clearing_04.jpg"
+       curtain="true"
+       title="East Dover Forest, February 2023"
+       attribution="Angela Ricasio Hoten"
+       fit="contain"> 
+<param ve-image 
+       url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover Forest_Clearing_01.jpg"
+       title="East Dover Forest, February 2023"
+       attribution="Angela Ricasio Hoten"
+       fit="contain"> 
+<param ve-image 
+       url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover Forest_Clearing_02.jpg"
+       title="East Dover Forest, February 2023"
+       attribution="Angela Ricasio Hoten"
+       fit="contain"> 
 
+While the East Dover Forest is now essentially gone, the dedicated documentation of the species that once inhabited this forest shows us an example of the ways that non-native species like the Albizia tree offer valuable roosting and nesting sites for native species like the Oriental pied hornbills and changeable hawk eagles.[^8] The preservation of small patches of secondary forest in and around urban areas, like the Dover Forest, are vital to maintaining important ecological functions such as increased foraging ground, providing stepping stones for wildlife dispersal, and providing habitats for resident species, especially endangered ones.[^9] 
 <param ve-image 
        url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover Forest_February 2023.jpg"
        curtain="true"
@@ -99,14 +114,10 @@ Habitats like the Dover Forest are crucial for the protection of species like th
        attribution="Angela Ricasio Hoten"
        fit="contain">
  <param ve-image 
-       url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/East Dover Forest_09-06-2023.JPG"
+       url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/East Dover Forest_09-06-2023_02.jpg"
        title="East Dover Forest, June 2023"
        attribution="Chua Chintat"
-       fit="contain">      
-
-
-While the East Dover Forest is now essentially gone, the dedicated documentation of the species that once inhabited this forest shows us an example of the ways that non-native species like the Albizia tree offer valuable roosting and nesting sites for native species like the Oriental pied hornbills and changeable hawk eagles.[^8] The preservation of small patches of secondary forest in and around urban areas, like the Dover Forest, are vital to maintaining important ecological functions such as increased foraging ground, providing stepping stones for wildlife dispersal, and providing habitats for resident species, especially endangered ones.[^9] 
-
+       fit="contain">  
 
 I extend my gratitude to the Dover Forest advocates, residential bird-watchers, citizen scientists, photographers, artists, and hikers that continue to document the Dover Forest. 
 
