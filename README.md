@@ -92,6 +92,19 @@ Both of these species have also been observed interacting amongst the albizia tr
 
 Habitats like the Dover Forest are crucial for the protection of species like the Oriental Pied Hornbill and the Changeable Hawk Eagle. Although species numbers have been on the rise in recent years, there lacks a sufficient understanding of their species' vulnerability, habitat suitability, and prey density in the local context. A study done in 2011 counted six active nest sites and three pairs of eagles exhibiting pairing behavior, which rounded the local changeable hawk eagle population to nine pairs of eagles.[^7] This study did not include the pair observed in the Dover Forest, which would bring the local population to roughly ten pairs of eagles. As of July 2023, most of East Dover Forest has been deforested for new housing developments. Given that Snowy, the youngest member of the Dover Forest residents, had only hatched earlier this year, the Albizia tree on which the nest sits has remained intact for the rest of the year in large part due to the advocacy of Chintat. However, the surrounding ecosystem that Snowy, and other species of the Dover Forest, relied on for survival has been demolished leaving the individual species intact but eliminating the ecosystem of dependence.
 
+<param ve-image 
+       url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover Forest_February 2023.jpg"
+       curtain="true"
+       title="East Dover Forest, February 2023"
+       attribution="Angela Ricasio Hoten"
+       fit="contain">
+ <param ve-image 
+       url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/East Dover Forest_09-06-2023.JPG"
+       title="East Dover Forest, June 2023"
+       attribution="Chua Chintat"
+       fit="contain">      
+
+
 While the East Dover Forest is now essentially gone, the dedicated documentation of the species that once inhabited this forest shows us an example of the ways that non-native species like the Albizia tree offer valuable roosting and nesting sites for native species like the Oriental pied hornbills and changeable hawk eagles.[^8] The preservation of small patches of secondary forest in and around urban areas, like the Dover Forest, are vital to maintaining important ecological functions such as increased foraging ground, providing stepping stones for wildlife dispersal, and providing habitats for resident species, especially endangered ones.[^9] 
 
 
