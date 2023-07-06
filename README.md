@@ -25,7 +25,7 @@ The ecological community of the Dover Forest spans a wide range of species, both
        curtain="true"
        title="Dover Forest, Ficus virens, September 2021"
        attribution="Chua Chintat"
-       fit="contain">  
+       fit="contain"> 
 <param ve-image 
        url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover Forest_Mushrooms_01.jpg"
        title="Dover Forest, Filoboletus manipularis, February 2023"
@@ -35,7 +35,8 @@ The ecological community of the Dover Forest spans a wide range of species, both
 url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Inventory of Dover Forest Figs.png"
        title="An Inventory of the Diverse Fig Species of the Dover Forest"
        attribution="Chua Chintat"
-       fit="contain"> 
+       fit="contain">
+ 
 
 # Albizia Trees
 An understated and somewhat less popular tree species, the non-native Albizia tree (Falcataria moluccana), proves to be a vital species in the Dover Forest ecosystem as a nesting and breeding site for the residential changeable hawk eagles and oriental pied hornbills. The Albizia tree is globally well-known for its fast growth and nitrogen-fixing abilities. It was introduced into Singapore in the 1870s as a means of providing quick afforestation and shade given the species’ ability to rapidly grow a tall trunk.[^3] However, this rapid growth came at the cost of a thick, sturdy trunk and deep roots making the tree species prone to falling and branch breakage, inducing in some members of the public what came to be known as “falling tree anxiety”.[^4] What was initially intended to be a quick solution to Singapore’s initial greening efforts soon became a hazard. However, residents of the Dover Forest like the Changeable hawk eagle and the Oriental pied hornbill, both native and endangered birds in Singapore, find the Albizia Tree to be a perfect setup to build their nests. 
