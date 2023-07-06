@@ -21,6 +21,24 @@ Artifacts of the Chua Kampung can be found in the Dover Forest, slanted electric
 
 # Found in the Forest
 The ecological community of the Dover Forest spans a wide range of species, both native and non-native. As part of Chintat's advocacy for the Dover Forest, he highlights the [diverse tree and fig species of the Dover forest](https://doverforest.sg/oldindex.html). The Environmental Baseline Study for Dover/Ulu Pandan (EBS) listed twenty-seven large trees of significance within Dover Forest that are conservation-significant because of the potential of long-term ecosystem service provisions by large tree species such as thermal cooling, carbon sequestration, and fauna habitat/food source.[^1] The Dover Forest is also home to an incredible diversity of figs including the critically endangered White fig, <span eid="Q2717818">*Ficus virens*</span> and non-native Indian rubber, <span eid="Q79947417">*Ficus elastica*</span>. These figs are a keystone species in the Dover Forest ecosystem, providing important food resources for a wide range of species.[^2]
+<param ve-image 
+       url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/2021_08_09 ficus virens dover forest west.jpg"
+       title="Dover Forest, Ficus virens, September 2021"
+       curtain="true"
+       attribution="Chua Chintat"
+       fit="contain">      
+url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover Forest_Mushrooms_01.jpg"
+       title="Dover Forest, Filoboletus manipularis, February 2023"
+       attribution="Angela Ricasio Hoten"
+       fit="contain"> 
+url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover Forest_Mushrooms_01.jpg"
+       title="Dover Forest, Filoboletus manipularis, February 2023"
+       attribution="Angela Ricasio Hoten"
+       fit="contain"> 
+url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Inventory of Dover Forest Figs.png"
+       title="An Inventory of the Diverse Fig species of the Dover Forest"
+       attribution="Chua Chintat"
+       fit="contain"> 
 
 # Albizia Trees
 An understated and somewhat less popular tree species, the non-native Albizia tree (Falcataria moluccana), proves to be a vital species in the Dover Forest ecosystem as a nesting and breeding site for the residential changeable hawk eagles and oriental pied hornbills. The Albizia tree is globally well-known for its fast growth and nitrogen-fixing abilities. It was introduced into Singapore in the 1870s as a means of providing quick afforestation and shade given the species’ ability to rapidly grow a tall trunk.[^3] However, this rapid growth came at the cost of a thick, sturdy trunk and deep roots making the tree species prone to falling and branch breakage, inducing in some members of the public what came to be known as “falling tree anxiety”.[^4] What was initially intended to be a quick solution to Singapore’s initial greening efforts soon became a hazard. However, residents of the Dover Forest like the Changeable hawk eagle and the Oriental pied hornbill, both native and endangered birds in Singapore, find the Albizia Tree to be a perfect setup to build their nests. 
