@@ -113,6 +113,7 @@ While the East Dover Forest is now essentially gone, the dedicated documentation
        title="East Dover Forest, February 2023"
        attribution="Angela Ricasio Hoten"
        fit="contain">
+       
  <param ve-image 
        url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/East Dover Forest_09-06-2023_02.jpg"
        title="East Dover Forest, June 2023"
