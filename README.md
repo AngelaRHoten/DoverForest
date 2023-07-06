@@ -14,11 +14,27 @@ The Dover Forest is a young secondary forest that is found in the Ulu Pandan are
        
 # Histories of the Dover Forest
 The land now known as the Dover Forest had been previously known as the Chua Kampung. Chua Chintat, [an advocate of the Dover Forest](https://www.youtube.com/watch?v=jnFJPVYcZEE&t=14s) , had family members who lived in the Chua Kampung. Though Chintat did not grow up in the kampung and had only visited a few times as a child, he recalled some of the origins of its people.
-
+<param ve-image url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover Forest_03.jpg"
+       curtain="true"
+       title="East Dover Forest with Chintat, February 2023"
+       attribution="Angela Ricasio Hoten"
+       fit="contain">
+       
 >It started with my great-grandfather, he was directly from China, I’m not sure whether he was one of the founding dwellers of the kampung. The kampung started in 1905, my grandfather was also there right at the beginning, My surname is Chua, so this kampung was mostly people with the last name Chua, so they were from the province of Fujian. So a lot of the Chinese diaspora in Southeast Asia comes from Guangdong and Fujian cause that’s where the ships set sail from. So this kampung was mostly Chua’s from the town in Fujian so yeah if you are looking for any relics of the kampung, I don’t think there are any buildings left standing except for the kampung temple. That is still run by the temple trustees, so the temple caretakers live in that temple.
 
 Artifacts of the Chua Kampung can be found in the Dover Forest, slanted electric lines blend in with the trees, and brick steps hide beneath the leaf litter. Living artifacts like the [Sea Almond](https://www.nparks.gov.sg/florafaunaweb/flora/3/1/3181), or Ketapang, also inhabit the forest as reminders of the people who brought these seeds with them across the sea. 
 
+<param ve-image url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover Forest_Kampung_03.jpg"
+       curtain="true"
+       title="East Dover Forest, Remnants of the Chua kampung, February 2023"
+       attribution="Angela Ricasio Hoten"
+       fit="contain">
+<param ve-image url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover Forest_Kampung_02.jpg"
+       curtain="true"
+       title="East Dover Forest, Remnants of the Chua kampung, February 2023"
+       attribution="Angela Ricasio Hoten"
+       fit="contain">
+       
 # Found in the Forest
 The ecological community of the Dover Forest spans a wide range of species, both native and non-native. As part of Chintat's advocacy for the Dover Forest, he highlights the [diverse tree and fig species of the Dover forest](https://doverforest.sg/oldindex.html). The Environmental Baseline Study for Dover/Ulu Pandan (EBS) listed twenty-seven large trees of significance within Dover Forest that are conservation-significant because of the potential of long-term ecosystem service provisions by large tree species such as thermal cooling, carbon sequestration, and fauna habitat/food source.[^1] The Dover Forest is also home to an incredible diversity of figs including the critically endangered White fig, <span eid="Q2717818">*Ficus virens*</span> and non-native Indian rubber, <span eid="Q79947417">*Ficus elastica*</span>. These figs are a keystone species in the Dover Forest ecosystem, providing important food resources for a wide range of species.[^2]
 <param ve-image url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/2021_08_09 ficus virens dover forest west.jpg"
