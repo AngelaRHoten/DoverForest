@@ -28,6 +28,7 @@ Artifacts of the Chua Kampung can be found in the Dover Forest, slanted electric
        title="East Dover Forest, Remnants of the Chua kampung, February 2023"
        attribution="Angela Ricasio Hoten"
        fit="contain">
+       
 <param ve-image url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover Forest_Kampung_02.jpg"
        title="East Dover Forest, Remnants of the Chua kampung, February 2023"
        attribution="Angela Ricasio Hoten"
@@ -40,11 +41,13 @@ The ecological community of the Dover Forest spans a wide range of species, both
        title="Dover Forest, Ficus virens, September 2021"
        attribution="Chua Chintat"
        fit="contain"> 
+       
 <param ve-image 
        url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover Forest_Mushrooms_01.jpg"
        title="Dover Forest, Filoboletus manipularis, February 2023"
        attribution="Angela Ricasio Hoten"
        fit="contain"> 
+       
 <param ve-image 
 url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Inventory of Dover Forest Figs.png"
        title="An Inventory of the Diverse Fig Species of the Dover Forest"
@@ -59,10 +62,12 @@ An understated and somewhat less popular tree species, the non-native Albizia tr
        title= "East Dover Forest with Chintat, 2021"
        attribution="Chua Chintat"
        fit="contain">
+       
 <param ve-image url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover Forest_Albizia Tree_01.jpg"
        title= "Fallen Albizia Tree, February 2023"
        attribution="Angela Ricasio Hoten"
        fit="contain">
+       
 <param ve-image url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover Forest_Albizia Tree_02.jpg"
        title= "Fallen Albizia Tree, February 2023"
        attribution= "Angela Ricasio Hoten"
