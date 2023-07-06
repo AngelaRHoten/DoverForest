@@ -14,7 +14,9 @@ The Dover Forest is a young secondary forest that is found in the Ulu Pandan are
        
 # Histories of the Dover Forest
 The land now known as the Dover Forest had been previously known as the Chua Kampung. Chua Chintat, [an advocate of the Dover Forest](https://www.youtube.com/watch?v=jnFJPVYcZEE&t=14s) , had family members who lived in the Chua Kampung. Though Chintat did not grow up in the kampung and had only visited a few times as a child, he recalled some of the origins of its people.
-<param ve-image url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover Forest_03.jpg"
+<param ve-image 
+       url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover
+       Forest_03.jpg"
        curtain="true"
        title="East Dover Forest with Chintat, February 2023"
        attribution="Angela Ricasio Hoten"
@@ -24,12 +26,16 @@ The land now known as the Dover Forest had been previously known as the Chua Kam
 
 Artifacts of the Chua Kampung can be found in the Dover Forest, slanted electric lines blend in with the trees, and brick steps hide beneath the leaf litter. Living artifacts like the [Sea Almond](https://www.nparks.gov.sg/florafaunaweb/flora/3/1/3181), or Ketapang, also inhabit the forest as reminders of the people who brought these seeds with them across the sea. 
 
-<param ve-image url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover Forest_Kampung_03.jpg"
+<param ve-image 
+       url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover
+       Forest_Kampung_03.jpg"
        title="East Dover Forest, Remnants of the Chua kampung, February 2023"
        attribution="Angela Ricasio Hoten"
        fit="contain">
        
-<param ve-image url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover Forest_Kampung_02.jpg"
+<param ve-image 
+       url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover
+       Forest_Kampung_02.jpg"
        title="East Dover Forest, Remnants of the Chua kampung, February 2023"
        attribution="Angela Ricasio Hoten"
        fit="contain">
