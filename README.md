@@ -26,17 +26,15 @@ The ecological community of the Dover Forest spans a wide range of species, both
        curtain="true"
        attribution="Chua Chintat"
        fit="contain">  
+
 <param ve-image
        url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover Forest_Mushrooms_01.jpg"
        title="Dover Forest, Filoboletus manipularis, February 2023"
        attribution="Angela Ricasio Hoten"
        fit="contain"> 
-<param ve-image url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover Forest_Mushrooms_01.jpg"
-       title="Dover Forest, Filoboletus manipularis, February 2023"
-       attribution="Angela Ricasio Hoten"
-       fit="contain"> 
+
 <param ve-image url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Inventory of Dover Forest Figs.png"
-       title="An Inventory of the Diverse Fig species of the Dover Forest"
+       title="An Inventory of the Diverse Fig Species of the Dover Forest"
        attribution="Chua Chintat"
        fit="contain"> 
 
