@@ -21,21 +21,21 @@ Artifacts of the Chua Kampung can be found in the Dover Forest, slanted electric
 
 # Found in the Forest
 The ecological community of the Dover Forest spans a wide range of species, both native and non-native. As part of Chintat's advocacy for the Dover Forest, he highlights the [diverse tree and fig species of the Dover forest](https://doverforest.sg/oldindex.html). The Environmental Baseline Study for Dover/Ulu Pandan (EBS) listed twenty-seven large trees of significance within Dover Forest that are conservation-significant because of the potential of long-term ecosystem service provisions by large tree species such as thermal cooling, carbon sequestration, and fauna habitat/food source.[^1] The Dover Forest is also home to an incredible diversity of figs including the critically endangered White fig, <span eid="Q2717818">*Ficus virens*</span> and non-native Indian rubber, <span eid="Q79947417">*Ficus elastica*</span>. These figs are a keystone species in the Dover Forest ecosystem, providing important food resources for a wide range of species.[^2]
-<param ve-image 
-       url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/2021_08_09 ficus virens dover forest west.jpg"
+<param ve-image url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/2021_08_09 ficus virens dover forest west.jpg"
        title="Dover Forest, Ficus virens, September 2021"
        curtain="true"
        attribution="Chua Chintat"
-       fit="contain">      
-url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover Forest_Mushrooms_01.jpg"
+       fit="contain">  
+<param ve-image
+       url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover Forest_Mushrooms_01.jpg"
        title="Dover Forest, Filoboletus manipularis, February 2023"
        attribution="Angela Ricasio Hoten"
        fit="contain"> 
-url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover Forest_Mushrooms_01.jpg"
+<param ve-image url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover Forest_Mushrooms_01.jpg"
        title="Dover Forest, Filoboletus manipularis, February 2023"
        attribution="Angela Ricasio Hoten"
        fit="contain"> 
-url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Inventory of Dover Forest Figs.png"
+<param ve-image url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Inventory of Dover Forest Figs.png"
        title="An Inventory of the Diverse Fig species of the Dover Forest"
        attribution="Chua Chintat"
        fit="contain"> 
