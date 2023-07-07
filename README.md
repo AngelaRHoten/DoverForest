@@ -19,7 +19,7 @@ The Dover Forest is a young secondary forest that is found in the Ulu Pandan are
        fit="contain"> 
        
 ##  Kampung Histories of the Dover Forest
-The land now known as the Dover Forest had been previously known as the Chua Kampung. Chua Chintat, [an advocate of the Dover Forest](https://www.youtube.com/watch?v=jnFJPVYcZEE&t=14s) , had family members who lived in the Chua Kampung. Though Chintat did not grow up in the kampung and had only visited a few times as a child, he recalled some of the origins of its people.
+The land now known as the Dover Forest had been previously known as the Chua Kampung. Chua Chintat, [an advocate of the Dover Forest](https://www.youtube.com/watch?v=jnFJPVYcZEE&t=14s) , had family members who lived in the Chua Kampung. Alhough Chintat did not grow up in the kampung and had only visited a few times as a child, he recalled some of the origins of its people.
 <param ve-image 
        url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover
        Forest_03.jpg"
@@ -112,7 +112,7 @@ Habitats like the Dover Forest are crucial for the protection of species like th
        attribution="Eng Keong Chng"
        fit="contain">
        
-As of July 2023, most of East Dover Forest has been deforested for new housing developments. Given that Snowy, the youngest member of the Dover Forest residents, had only hatched earlier this year, the Albizia tree on which the nest sits has remained intact for the rest of the year in large part due to the advocacy of Chintat. However, the surrounding ecosystem that Snowy, and other species of the Dover Forest, relied on for survival has been demolished leaving the individual species intact but eliminating the ecosystem of dependence.
+As of July 2023, most of East Dover Forest has been deforested for new housing developments. According to Dover Forest advocate, Eng Keong Chng, the residential Oriental Pied Hornbills had relocated their nest at Medway Park along Dover Road back in 2022 prior to the deforestation. However, the residential Changeable Hawk Eagles remained in East Dover Forest. Given that Snowy, the youngest member of the Dover Forest residents, had only hatched earlier this year, the Albizia tree on which the nest sits has remained intact for the rest of the year in large part due to the advocacy of Chintat. However, the surrounding ecosystem that Snowy, and other species of the Dover Forest, relied on for survival has been demolished leaving the individual hawk-eagles intact but eliminating their ecosystem of dependence and survival.
 
 <param ve-image 
        url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover Forest_Clearing_04.jpg"
