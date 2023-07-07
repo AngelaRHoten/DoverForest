@@ -8,7 +8,7 @@
 The Dover Forest is a young secondary forest that is found in the Ulu Pandan area, situated between three roads and the Ulu-Pandan canal. Similarly to the [Clementi Forest](https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Clementi%20Forest), the Dover Forest spontaneously afforested close to fifty years ago. A grass lawn divides the forest into two halves that locals in the area have nicknamed East Dover and West Dover Forest. As of July 2023, most of East Dover Forest has been deforested for redevelopment. While West Dover Forest remains unimpaired for the next ten years, the attempt to protect Dover Forest has been a story of hope and struggle for those who have dedicated their energy to protecting the forest and the species that live within it. 
 <param ve-image 
        url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover Forest_01.jpg"
-       title="East Dover Forest with Chua Chintat, February 2023"
+       label="East Dover Forest with Chua Chintat, February 2023"
        attribution="Angela Ricasio Hoten"
        fit="contain"> 
        
@@ -18,7 +18,7 @@ The land now known as the Dover Forest had been previously known as the Chua Kam
        url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover
        Forest_03.jpg"
        curtain="true"
-       title="East Dover Forest with Chintat, February 2023"
+       label="East Dover Forest with Chintat, February 2023"
        attribution="Angela Ricasio Hoten"
        fit="contain">
        
@@ -29,13 +29,13 @@ Artifacts of the Chua Kampung can be found in the Dover Forest, slanted electric
 <param ve-image 
        url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover
        Forest_Kampung_03.jpg"
-       title="East Dover Forest, Remnants of the Chua kampung, February 2023"
+       label="East Dover Forest, Remnants of the Chua kampung, February 2023"
        attribution="Angela Ricasio Hoten"
        fit="contain">
 <param ve-image 
        url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover
        Forest_Kampung_02.jpg"
-       title="East Dover Forest, Remnants of the Chua kampung, February 2023"
+       label="East Dover Forest, Remnants of the Chua kampung, February 2023"
        attribution="Angela Ricasio Hoten"
        fit="contain">
        
@@ -43,17 +43,17 @@ Artifacts of the Chua Kampung can be found in the Dover Forest, slanted electric
 The ecological community of the Dover Forest spans a wide range of species, both native and non-native. As part of Chintat's advocacy for the Dover Forest, he highlights the [diverse tree and fig species of the Dover forest](https://doverforest.sg/oldindex.html). The Environmental Baseline Study for Dover/Ulu Pandan (EBS) listed twenty-seven large trees of significance within Dover Forest that are conservation-significant because of the potential of long-term ecosystem service provisions by large tree species such as thermal cooling, carbon sequestration, and fauna habitat/food source.[^1] The Dover Forest is also home to an incredible diversity of figs including the critically endangered White fig, <span eid="Q2717818">*Ficus virens*</span> and non-native Indian rubber, <span eid="Q79947417">*Ficus elastica*</span>. These figs are a keystone species in the Dover Forest ecosystem, providing important food resources for a wide range of species.[^2]
 <param ve-image url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/2021_08_09 ficus virens dover forest west.jpg"
        curtain="true"
-       title="Dover Forest, Ficus virens, September 2021"
+       label="Dover Forest, Ficus virens, September 2021"
        attribution="Chua Chintat"
        fit="contain"> 
 <param ve-image 
        url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover Forest_Mushrooms_01.jpg"
-       title="Dover Forest, Filoboletus manipularis, February 2023"
+       label="Dover Forest, Filoboletus manipularis, February 2023"
        attribution="Angela Ricasio Hoten"
        fit="contain"> 
 <param ve-image 
 url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Inventory of Dover Forest Figs.png"
-       title="An Inventory of the Diverse Fig Species of the Dover Forest"
+       label="An Inventory of the Diverse Fig Species of the Dover Forest"
        attribution="Chua Chintat"
        fit="contain">
  
@@ -63,24 +63,24 @@ An understated and somewhat less popular tree species, the non-native Albizia tr
 <param ve-image 
        url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Albizia Tree_Dover Forest.JPG"
        curtain="true"
-       title="East Dover Forest, Albizia Trees, 2021"
+       label="East Dover Forest, Albizia Trees, 2021"
        attribution="Chua Chintat"
        fit="contain">       
 <param ve-image 
        url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover Forest_Albizia Tree_01.jpg"
-       title="Fallen Albizia Tree, February 2023"
+       label="Fallen Albizia Tree, February 2023"
        attribution="Angela Ricasio Hoten"
        fit="contain">       
 <param ve-image 
        url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover Forest_Albizia Tree_02.jpg"
-       title="Fallen Albizia Tree, February 2023"
+       label="Fallen Albizia Tree, February 2023"
        attribution= "Angela Ricasio Hoten"
        fit="contain">
        
 The natural cavities in the Albizia tree offer the Oriental pied hornbill suitable breeding sites for their young. Citizen scientists have observed the residential male Oriental pied hornbill deliver fruits, insects, and lizards to his mate nesting in the hollow of an albizia tree in East Dover Forest between March and April of 2022.
 <param ve-image 
        url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Breeding Pair of Oriental Pied Hornbills.jpg"
-       title="The Breeding Pair of Oriental Pied Hornbills, Dover Forest, 27 June 2022"
+       label="The Breeding Pair of Oriental Pied Hornbills, Dover Forest, 27 June 2022"
        attribution= "Eng Keong Chng"
        fit="contain">
 
@@ -94,22 +94,22 @@ Habitats like the Dover Forest are crucial for the protection of species like th
 <param ve-image 
        url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/ChangeableHawkEagle_OrientalPiedHornbill.jpg"
        curtain="true"
-       title=", February 2023"
+       label=", February 2023"
        attribution="Angela Ricasio Hoten"
        fit="contain">
 <param ve-image 
        url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover Forest_Clearing_04.jpg"
-       title="East Dover Forest, February 2023"
+       label="East Dover Forest, February 2023"
        attribution="Angela Ricasio Hoten"
        fit="contain"> 
 <param ve-image 
        url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover Forest_Clearing_01.jpg"
-       title="East Dover Forest, February 2023"
+       label="East Dover Forest, February 2023"
        attribution="Angela Ricasio Hoten"
        fit="contain"> 
 <param ve-image 
        url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover Forest_Clearing_02.jpg"
-       title="East Dover Forest, February 2023"
+       Label="East Dover Forest, February 2023"
        attribution="Angela Ricasio Hoten"
        fit="contain"> 
 
@@ -118,17 +118,17 @@ While the East Dover Forest is now essentially gone, the dedicated documentation
 <param ve-image 
        url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/ChangeableHawkEagle_OrientalPiedHornbill.jpg"
        curtain="true"
-       title="Interaction between a male Oriental Pied Hornbill and Female Pale-morph changeable hawk eagle on an albizia tree in the Dover Forest, March 2022"
+       label="Interaction between a male Oriental Pied Hornbill and Female Pale-morph changeable hawk eagle on an albizia tree in the Dover Forest, March 2022"
        attribution="Eng Keong Chng"
        fit="contain">
 <param ve-image 
        url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover Forest_February 2023.jpg"
-       title="East Dover Forest, February 2023"
+       label="East Dover Forest, February 2023"
        attribution="Angela Ricasio Hoten"
        fit="contain">
 <param ve-image 
        url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/East Dover Forest_09-06-2023_02.jpg"
-       title="East Dover Forest, June 2023"
+       label="East Dover Forest, June 2023"
        attribution="Chua Chintat"
        fit="contain">  
 
