@@ -120,10 +120,10 @@ I extend my gratitude to the Dover Forest advocates, residential bird-watchers, 
 
 
 ## References 
-[^1]: Heritage Tree Project,  2021:1
-[^2]: Chua, Chin Tat. “Doverforest.sg | Home.” doverforest.sg, 2021. https://doverforest.sg/#:~:text=Dover%20Forest%20is%20a%20half.
-[^3]: 
-[^4]: 
+[^1]: Chintat Chua , “Heritage Tree Project,” Dover Forest Resource Site, 2021, https://doverforest.sg/oldindex.html. 
+[^2]: Chintat Chua, “Forest of Figs Project,” Dover Forest Resource Site, 2021, https://doverforest.sg/oldindex.html.
+[^3]: Yuwei Wu and Yi Lin Lim, “Falcataria Moluccana - Albizia,” Wiki.nus, December 18, 2019, https://wiki.nus.edu.sg/display/TAX/Falcataria+moluccana+-+Albizia.
+[^4]: Chin Tat Chua, Eng Keong Chng, and Michelle Puay Hoon Ho, “Oriental Pied Hornbills and Changeable Hawk Eagles Nesting at Dover Forest East, Singapore,” Nature in Singapore 15 (December 9, 2022), https://doi.org/10.26107/NIS-2022-0139.
 [^5]: 
 [^6]: 
 [^7]: 
