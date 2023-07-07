@@ -1,7 +1,7 @@
 <param ve-config 
        title="Dover Forest"
        author="Angela Ricasio Hoten"
-       banner="https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg"
+banner="https://github.com/AngelaRHoten/DoverForest/blob/70de66398422d93f92f1950ee16642faad2efe77/media/Dover%20Forest_February%202023_02.jpg"
        layout="vertical">
 
 ## Introduction 
@@ -145,12 +145,12 @@ I extend my gratitude to the Dover Forest advocates, residential bird-watchers, 
 
 
 ## References 
-[^1]: Chintat Chua , “Heritage Tree Project,” Dover Forest Resource Site, 2021, https://doverforest.sg/oldindex.html. 
+[^1]: Chintat Chua, “Heritage Tree Project,” Dover Forest Resource Site, 2021, https://doverforest.sg/oldindex.html. 
 [^2]: Chintat Chua, “Forest of Figs Project,” Dover Forest Resource Site, 2021, https://doverforest.sg/oldindex.html.
 [^3]: Yuwei Wu and Yi Lin Lim, “Falcataria Moluccana - Albizia,” Wiki.nus, December 18, 2019, https://wiki.nus.edu.sg/display/TAX/Falcataria+moluccana+-+Albizia.
-[^4]: Chin Tat Chua, Eng Keong Chng, and Michelle Puay Hoon Ho, “Oriental Pied Hornbills and Changeable Hawk Eagles Nesting at Dover Forest East, Singapore,” Nature in Singapore 15 (December 9, 2022), https://doi.org/10.26107/NIS-2022-0139.
-[^5]: 
-[^6]: 
-[^7]: 
-[^8]: 
-[^9]: 
+[^4]: Mui Hoong Chua, “Risking Falling Trees for Roti Prata,” The Straits Times, September 7, 2013.
+[^5]: Chin Tat Chua, Eng Keong Chng, and Michelle Puay Hoon Ho, “Oriental Pied Hornbills and Changeable Hawk Eagles Nesting at Dover Forest East, Singapore,” Nature in Singapore 15 (December 9, 2022), 4-6. https://doi.org/10.26107/NIS-2022-0139.
+[^6]: Chua et al, 14.
+[^7]: Tan IK. H., “The Status and Distribution of Changeable Hawk-Eagle (Nisaetus Cirrhatus) in Singapore,” Singapore Bird Group, 2005, 1.
+[^8]: Chua et al, 14. 
+[^9]: The Nature Society (Singapore), “Feedback on the Updated URA Master Plan,” December 19, 2013; I.M. Turner and Richard T. Corlett, “The Conservation Value of Small, Isolated Fragments of Lowland Tropical Rain Forest,” Trends in Ecology & Evolution 11, no. 8 (August 1996): 333, https://doi.org/10.1016/0169-5347(96)10046-x.
