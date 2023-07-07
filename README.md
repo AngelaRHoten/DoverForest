@@ -4,7 +4,7 @@
        banner="https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg"
        layout="vertical">
 
-# Introduction 
+## Introduction 
 The Dover Forest is a young secondary forest that is found in the Ulu Pandan area, situated between three roads and the Ulu-Pandan canal. Similarly to the [Clementi Forest](https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Clementi%20Forest), the Dover Forest spontaneously afforested close to fifty years ago. A grass lawn divides the forest into two halves that locals in the area have nicknamed East Dover and West Dover Forest. As of July 2023, most of East Dover Forest has been deforested for redevelopment. While West Dover Forest remains unimpaired for the next ten years, the attempt to protect Dover Forest has been a story of hope and struggle for those who have dedicated their energy to protecting the forest and the species that live within it. 
 <param ve-image 
        url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover Forest_01.jpg"
@@ -12,7 +12,7 @@ The Dover Forest is a young secondary forest that is found in the Ulu Pandan are
        attribution="Angela Ricasio Hoten"
        fit="contain"> 
        
-# Histories of the Dover Forest
+## Histories of the Dover Forest
 The land now known as the Dover Forest had been previously known as the Chua Kampung. Chua Chintat, [an advocate of the Dover Forest](https://www.youtube.com/watch?v=jnFJPVYcZEE&t=14s) , had family members who lived in the Chua Kampung. Though Chintat did not grow up in the kampung and had only visited a few times as a child, he recalled some of the origins of its people.
 <param ve-image 
        url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover
@@ -39,7 +39,7 @@ Artifacts of the Chua Kampung can be found in the Dover Forest, slanted electric
        attribution="Angela Ricasio Hoten"
        fit="contain">
        
-# Found in the Forest
+## Found in the Forest
 The ecological community of the Dover Forest spans a wide range of species, both native and non-native. As part of Chintat's advocacy for the Dover Forest, he highlights the [diverse tree and fig species of the Dover forest](https://doverforest.sg/oldindex.html). The Environmental Baseline Study for Dover/Ulu Pandan (EBS) listed twenty-seven large trees of significance within Dover Forest that are conservation-significant because of the potential of long-term ecosystem service provisions by large tree species such as thermal cooling, carbon sequestration, and fauna habitat/food source.[^1] The Dover Forest is also home to an incredible diversity of figs including the critically endangered White fig, <span eid="Q2717818">*Ficus virens*</span> and non-native Indian rubber, <span eid="Q79947417">*Ficus elastica*</span>. These figs are a keystone species in the Dover Forest ecosystem, providing important food resources for a wide range of species.[^2]
 <param ve-image url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/2021_08_09 ficus virens dover forest west.jpg"
        curtain="true"
@@ -58,7 +58,7 @@ url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Inven
        fit="contain">
  
 
-# Albizia Trees
+## Albizia Trees
 An understated and somewhat less popular tree species, the non-native Albizia tree, *Falcataria moluccana*, proves to be a vital species in the Dover Forest ecosystem as a nesting and breeding site for the residential changeable hawk eagles and oriental pied hornbills. The Albizia tree is globally well-known for its fast growth and nitrogen-fixing abilities. It was introduced into Singapore in the 1870s as a means of providing quick afforestation and shade given the species’ ability to rapidly grow a tall trunk.[^3] However, this rapid growth came at the cost of a thick, sturdy trunk and deep roots making the tree species prone to falling and branch breakage, inducing in some members of the public what came to be known as “falling tree anxiety”.[^4] What was initially intended to be a quick solution to Singapore’s initial greening efforts soon became a hazard. However, residents of the Dover Forest like the Changeable hawk eagle and the Oriental pied hornbill, both native and endangered birds in Singapore, find the Albizia Tree to be a perfect setup to build their nests. 
 <param ve-image 
        url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Albizia Tree_Dover Forest.JPG"
@@ -119,7 +119,7 @@ While the East Dover Forest is now essentially gone, the dedicated documentation
 I extend my gratitude to the Dover Forest advocates, residential bird-watchers, citizen scientists, photographers, artists, and hikers that continue to document the Dover Forest. 
 
 
-# References 
+## References 
 [^1]: Heritage Tree Project,  2021:1
 [^2]: Chua, Chin Tat. “Doverforest.sg | Home.” doverforest.sg, 2021. https://doverforest.sg/#:~:text=Dover%20Forest%20is%20a%20half.
 [^3]: 
