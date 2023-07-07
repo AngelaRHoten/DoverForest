@@ -1,7 +1,7 @@
 <param ve-config 
        title="Dover Forest"
        author="Angela Ricasio Hoten"
-banner="https://github.com/AngelaRHoten/DoverForest/blob/70de66398422d93f92f1950ee16642faad2efe77/media/Dover%20Forest_February%202023_02.jpg"
+banner="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover Forest_February 2023_02.jpg"
        layout="vertical">
 
 ## Introduction 
