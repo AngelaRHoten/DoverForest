@@ -78,6 +78,11 @@ An understated and somewhat less popular tree species, the non-native Albizia tr
        fit="contain">
        
 The natural cavities in the Albizia tree offer the Oriental pied hornbill suitable breeding sites for their young. Citizen scientists have observed the residential male Oriental pied hornbill deliver fruits, insects, and lizards to his mate nesting in the hollow of an albizia tree in East Dover Forest between March and April of 2022.
+<param ve-image 
+       url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Breeding Pair of Oriental Pied Hornbills.jpg"
+       title="The Breeding Pair of Oriental Pied Hornbills, Dover Forest, 27 June 2022"
+       attribution= "Eng Keong Chng"
+       fit="contain">
 
 The residential changeable hawk eagles were also observed in a nest feeding and breeding at the canopy of an albizia tree in East Dover Forest for both breeding seasons in 2022[^5] and 2023. <param ve-video id="bhGI4novI0g" title="25 March 2022 - First sighting of Changeable Hawk-eaglet @ Dover Forest East">
 
@@ -87,8 +92,13 @@ Both of these species have also been observed interacting amongst the albizia tr
 
 Habitats like the Dover Forest are crucial for the protection of species like the Oriental Pied Hornbill and the Changeable Hawk Eagle. Although species numbers have been on the rise in recent years, there lacks a sufficient understanding of their species' vulnerability, habitat suitability, and prey density in the local context. A study done in 2011 counted six active nest sites and three pairs of eagles exhibiting pairing behavior, which rounded the local changeable hawk eagle population to nine pairs of eagles.[^7] This study did not include the pair observed in the Dover Forest, which would bring the local population to roughly ten pairs of eagles. As of July 2023, most of East Dover Forest has been deforested for new housing developments. Given that Snowy, the youngest member of the Dover Forest residents, had only hatched earlier this year, the Albizia tree on which the nest sits has remained intact for the rest of the year in large part due to the advocacy of Chintat. However, the surrounding ecosystem that Snowy, and other species of the Dover Forest, relied on for survival has been demolished leaving the individual species intact but eliminating the ecosystem of dependence.
 <param ve-image 
-       url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover Forest_Clearing_04.jpg"
+       url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/ChangeableHawkEagle_OrientalPiedHornbill.jpg"
        curtain="true"
+       title=", February 2023"
+       attribution="Angela Ricasio Hoten"
+       fit="contain">
+<param ve-image 
+       url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover Forest_Clearing_04.jpg"
        title="East Dover Forest, February 2023"
        attribution="Angela Ricasio Hoten"
        fit="contain"> 
@@ -104,9 +114,15 @@ Habitats like the Dover Forest are crucial for the protection of species like th
        fit="contain"> 
 
 While the East Dover Forest is now essentially gone, the dedicated documentation of the species that once inhabited this forest shows us an example of the ways that non-native species like the Albizia tree offer valuable roosting and nesting sites for native species like the Oriental pied hornbills and changeable hawk eagles.[^8] The preservation of small patches of secondary forest in and around urban areas, like the Dover Forest, are vital to maintaining important ecological functions such as increased foraging ground, providing stepping stones for wildlife dispersal, and providing habitats for resident species, especially endangered ones.[^9] 
+
+<param ve-image 
+       url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/ChangeableHawkEagle_OrientalPiedHornbill.jpg"
+       curtain="true"
+       title="Interaction between a male Oriental Pied Hornbill and Female Pale-morph changeable hawk eagle on an albizia tree in the Dover Forest, March 2022"
+       attribution="Eng Keong Chng"
+       fit="contain">
 <param ve-image 
        url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover Forest_February 2023.jpg"
-       curtain="true"
        title="East Dover Forest, February 2023"
        attribution="Angela Ricasio Hoten"
        fit="contain">
