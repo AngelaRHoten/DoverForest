@@ -1,5 +1,5 @@
 <param ve-config 
-       title="Dover Forest"
+       title="Dover Forest: The Fight to Protect Vanishing Ecosystems"
        author="Angela Ricasio Hoten"
 banner="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover Forest_February 2023.jpg"
        layout="vertical">
