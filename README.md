@@ -14,7 +14,7 @@ The Dover Forest is a young secondary forest that is found in the Ulu Pandan are
        fit="contain"> 
 <param ve-image 
        url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Dover Forest_February 2023_02.jpg"
-       label="East Dover Forest with Chua Chintat, February 2023"
+       label="Overlooking East Dover Forest with Chua Chintat, February 2023"
        attribution="Angela Ricasio Hoten"
        fit="contain"> 
        
@@ -46,7 +46,7 @@ Artifacts of the Chua Kampung can be found in the Dover Forest, slanted electric
        fit="contain">
        
 ## Found in the Forest
-The ecological community of the Dover Forest spans a wide range of species, both native and non-native. As part of Chintat's advocacy for the Dover Forest, he highlights the [diverse tree and fig species of the Dover forest](https://doverforest.sg/oldindex.html). The Environmental Baseline Study for Dover/Ulu Pandan (EBS) listed twenty-seven large trees of significance within Dover Forest that are conservation-significant because of the potential of long-term ecosystem service provisions by large tree species such as thermal cooling, carbon sequestration, and fauna habitat/food source.[^1] The Dover Forest is also home to an incredible diversity of figs including the critically endangered White fig, <span eid="Q2717818">*Ficus virens*</span> and non-native Indian rubber, <span eid="Q79947417">*Ficus elastica*</span>. These figs are a keystone species in the Dover Forest ecosystem, providing important food resources for a wide range of species.[^2]
+The ecological community of the Dover Forest spans a wide range of species, both native and non-native. As part of Chintat's advocacy for the Dover Forest, he highlights the [diverse tree and fig species of the Dover forest](https://doverforest.sg/oldindex.html) amongst other species like the bioluminescent [*Filoboletus manipularis*](https://www.theguardian.com/environment/gallery/2022/jun/11/the-bioluminescent-world-of-glowing-lifeforms-in-pictures). The Environmental Baseline Study for Dover/Ulu Pandan (EBS) listed twenty-seven large trees of significance within Dover Forest that are conservation-significant because of the potential of long-term ecosystem service provisions by large tree species such as thermal cooling, carbon sequestration, and fauna habitat/food source.[^1] The Dover Forest is also home to an incredible diversity of figs including the critically endangered White fig, <span eid="Q2717818">*Ficus virens*</span> and non-native Indian rubber, <span eid="Q79947417">*Ficus elastica*</span>. These figs are a keystone species in the Dover Forest ecosystem, providing important food resources for a wide range of species.[^2]
 <param ve-image url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/2021_08_09 ficus virens dover forest west.jpg"
        curtain="true"
        label="Dover Forest, Ficus virens, September 2021"
